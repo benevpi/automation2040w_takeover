@@ -26,12 +26,12 @@ The CXX compiler identification is MSVC, found in "C:/Users/ben/Documents/GitHub
 Detecting CXX compiler ABI info compiled with the following output:
 Change Dir: C:/Users/ben/Documents/GitHub/automation2040w_takeover/build/pioasm/CMakeFiles/CMakeTmp
 
-Run Build Command(s):nmake /nologo cmTC_17e03\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.28.29333\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_17e03.dir\build.make /nologo -L                  CMakeFiles\cmTC_17e03.dir\build
-Building CXX object CMakeFiles/cmTC_17e03.dir/CMakeCXXCompilerABI.cpp.obj
-	C:\PROGRA~2\MICROS~2\2019\BUILDT~1\VC\Tools\MSVC\1428~1.293\bin\Hostx86\x86\cl.exe @C:\Users\ben\AppData\Local\Temp\nmD380.tmp
+Run Build Command(s):nmake /nologo cmTC_7b7cc\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.28.29333\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_7b7cc.dir\build.make /nologo -L                  CMakeFiles\cmTC_7b7cc.dir\build
+Building CXX object CMakeFiles/cmTC_7b7cc.dir/CMakeCXXCompilerABI.cpp.obj
+	C:\PROGRA~2\MICROS~2\2019\BUILDT~1\VC\Tools\MSVC\1428~1.293\bin\Hostx86\x86\cl.exe @C:\Users\ben\AppData\Local\Temp\nmFBAE.tmp
 CMakeCXXCompilerABI.cpp
-Linking CXX executable cmTC_17e03.exe
-	"C:\Program Files\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_17e03.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\2019\BUILDT~1\VC\Tools\MSVC\1428~1.293\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_17e03.dir\objects1.rsp @C:\Users\ben\AppData\Local\Temp\nmD3BF.tmp
+Linking CXX executable cmTC_7b7cc.exe
+	"C:\Program Files\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_7b7cc.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\2019\BUILDT~1\VC\Tools\MSVC\1428~1.293\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_7b7cc.dir\objects1.rsp @C:\Users\ben\AppData\Local\Temp\nmFBED.tmp
 
 
 

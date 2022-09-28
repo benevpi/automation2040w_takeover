@@ -290,12 +290,6 @@ PICO_STDIO_UART:BOOL=ON
 //Globablly enable stdio semihosting 
 PICO_STDIO_USB:BOOL=OFF
 
-//No help, variable specified on the command line.
-WIFI_PASSWORD:UNINITIALIZED=0-DontbeonFire
-
-//No help, variable specified on the command line.
-WIFI_SSID:UNINITIALIZED=Bristol Hackspace
-
 //Value Computed by CMake
 automation2040w_takeover_BINARY_DIR:STATIC=C:/Users/ben/Documents/GitHub/automation2040w_takeover/build
 

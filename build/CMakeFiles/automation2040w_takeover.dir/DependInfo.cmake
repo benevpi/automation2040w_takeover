@@ -68,8 +68,6 @@ set(CMAKE_TARGET_DEFINITIONS_ASM
   "PICO_ON_DEVICE=1"
   "PICO_TARGET_NAME=\"automation2040w_takeover\""
   "PICO_USE_BLOCKED_RAM=0"
-  "WIFI_PASSWORD=\"0-DontbeonFire\""
-  "WIFI_SSID=\"Bristol Hackspace\""
   )
 
 # The include file search paths:
@@ -344,8 +342,6 @@ set(CMAKE_TARGET_DEFINITIONS_C
   "PICO_ON_DEVICE=1"
   "PICO_TARGET_NAME=\"automation2040w_takeover\""
   "PICO_USE_BLOCKED_RAM=0"
-  "WIFI_PASSWORD=\"0-DontbeonFire\""
-  "WIFI_SSID=\"Bristol Hackspace\""
   )
 
 # The include file search paths:
@@ -462,8 +458,6 @@ set(CMAKE_TARGET_DEFINITIONS_CXX
   "PICO_ON_DEVICE=1"
   "PICO_TARGET_NAME=\"automation2040w_takeover\""
   "PICO_USE_BLOCKED_RAM=0"
-  "WIFI_PASSWORD=\"0-DontbeonFire\""
-  "WIFI_SSID=\"Bristol Hackspace\""
   )
 
 # The include file search paths:

@@ -64,8 +64,8 @@ set(CMAKE_TARGET_DEFINITIONS_ASM
   "PICO_ON_DEVICE=1"
   "PICO_TARGET_NAME=\"picow_dns_server_test_poll\""
   "PICO_USE_BLOCKED_RAM=0"
-  "WIFI_PASSWORD=\"0-DontbeonFire\""
-  "WIFI_SSID=\"Bristol Hackspace\""
+  "WIFI_PASSWORD=\"\""
+  "WIFI_SSID=\"\""
   )
 
 # The include file search paths:
@@ -305,8 +305,8 @@ set(CMAKE_TARGET_DEFINITIONS_C
   "PICO_ON_DEVICE=1"
   "PICO_TARGET_NAME=\"picow_dns_server_test_poll\""
   "PICO_USE_BLOCKED_RAM=0"
-  "WIFI_PASSWORD=\"0-DontbeonFire\""
-  "WIFI_SSID=\"Bristol Hackspace\""
+  "WIFI_PASSWORD=\"\""
+  "WIFI_SSID=\"\""
   )
 
 # The include file search paths:
@@ -411,8 +411,8 @@ set(CMAKE_TARGET_DEFINITIONS_CXX
   "PICO_ON_DEVICE=1"
   "PICO_TARGET_NAME=\"picow_dns_server_test_poll\""
   "PICO_USE_BLOCKED_RAM=0"
-  "WIFI_PASSWORD=\"0-DontbeonFire\""
-  "WIFI_SSID=\"Bristol Hackspace\""
+  "WIFI_PASSWORD=\"\""
+  "WIFI_SSID=\"\""
   )
 
 # The include file search paths:
